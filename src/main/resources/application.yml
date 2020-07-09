@@ -1,0 +1,10 @@
+server:
+    port: 80
+#
+#logging:
+#  file:
+#    path:
+#---
+#person:
+#  name: 'csc'
+#  age: 12
